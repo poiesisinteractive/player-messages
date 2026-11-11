@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "messages": [
+    {
+      "id": "release-alpha-3.1.1",
+      "date": "2026-11-11",
+      "type": "release",
+      "minVersion": "alpha 3.1",
+      "maxVersion": "alpha 3",
+      "texts": {
+        "FR": {
+          "title": "Alpha 3.1.1 : l'orage, la pêche et le chantier naval",
+          "body": "Les correctifs de cette version :",
+          "items": [
+            "Quand l'orage gronde sur l'accueil, on le voit enfin : nuages sombres, rideaux de pluie et éclairs.",
+            "Boulets et poudre se trouvent dans toutes les îles peuplées, réassortis par l'arrière-pays.",
+            "Au chantier naval, votre navire ferle ses voiles à quai.",
+            "Acheter ou reprendre un navire montre l'avant et l'après ; vous choisissez quoi faire du surplus.",
+            "Sur un banc, chaque coup de filet coûte des points d'action : jetez-en plusieurs et repartez dans le même tour, sans vider le banc.",
+            "Le timelapse d'une île colonisée part de l'avant-poste ; rues et habillage arrivent avec le bourg."
+          ]
+        },
+        "EN": {
+          "title": "Alpha 3.1.1: storms, fishing and the shipyard",
+          "body": "The fixes in this version:",
+          "items": [
+            "When a storm rolls over the welcome screen, you can finally see it: dark clouds, curtains of rain and lightning.",
+            "Cannonballs and powder can be found on every inhabited island, restocked from the hinterland.",
+            "At the shipyard, your ship furls its sails at the quay.",
+            "Buying or trading in a ship shows the before and after; you choose what to do with the surplus.",
+            "On a fishing bank, each cast of the net costs action points: cast several and sail on in the same turn, without emptying the bank.",
+            "A colonised island's timelapse starts from the outpost; streets and trimmings come with the town."
+          ]
+        },
+        "ES": {
+          "title": "Alfa 3.1.1: la tormenta, la pesca y el astillero",
+          "body": "Las correcciones de esta versión:",
+          "items": [
+            "Cuando la tormenta ruge sobre la pantalla de inicio, por fin se ve: nubes oscuras, cortinas de lluvia y relámpagos.",
+            "Balas y pólvora se encuentran en todas las islas pobladas, repuestas desde el interior.",
+            "En el astillero, su barco aferra las velas en el muelle.",
+            "Comprar o permutar un barco muestra el antes y el después; usted elige qué hacer con el excedente.",
+            "En un banco de pesca, cada lance de red cuesta puntos de acción: lance varios y zarpe en el mismo turno, sin vaciar el banco.",
+            "El timelapse de una isla colonizada parte del puesto avanzado; calles y adornos llegan con el pueblo."
+          ]
+        },
+        "DE": {
+          "title": "Alpha 3.1.1: Sturm, Fischfang und Werft",
+          "body": "Die Korrekturen dieser Version:",
+          "items": [
+            "Wenn auf dem Startbildschirm ein Sturm tobt, sieht man ihn endlich: dunkle Wolken, Regenschleier und Blitze.",
+            "Kugeln und Pulver gibt es auf jeder bewohnten Insel, nachgeliefert aus dem Hinterland.",
+            "In der Werft refft Ihr Schiff am Kai die Segel.",
+            "Kauf oder Tausch eines Schiffs zeigt vorher und nachher; Sie entscheiden, was mit dem Überschuss geschieht.",
+            "Auf einer Fischbank kostet jeder Netzwurf Aktionspunkte: Werfen Sie mehrmals und segeln Sie im selben Zug weiter, ohne die Bank zu leeren.",
+            "Der Zeitraffer einer kolonisierten Insel beginnt beim Außenposten; Straßen und Ausstattung kommen mit dem Städtchen."
+          ]
+        }
+      }
+    },
+    {
+      "id": "release-alpha-3.1",
+      "date": "2026-10-28",
+      "type": "release",
+      "minVersion": "alpha 3.1",
+      "texts": {
+        "FR": {
+          "title": "Alpha 3.1 : l'accueil fait peau neuve",
+          "body": "Les nouveautés de cette version :",
+          "items": [
+            "Le menu passe en colonne à gauche ; « Continuer » reprend votre dernière partie.",
+            "L'écran Charger nomme chaque sauvegarde par son capitaine.",
+            "Ce panneau vous donnera des nouvelles du port : notes de version, playtests, enquêtes."
+          ]
+        },
+        "EN": {
+          "title": "Alpha 3.1: a fresh welcome screen",
+          "body": "What's new in this version:",
+          "items": [
+            "The menu now sits in a column on the left; \"Continue\" resumes your last game.",
+            "The Load screen names each save after its captain.",
+            "This panel will bring you news from the harbour: release notes, playtests, surveys."
+          ]
+        },
+        "ES": {
+          "title": "Alfa 3.1: la pantalla de inicio se renueva",
+          "body": "Las novedades de esta versión:",
+          "items": [
+            "El menú pasa a una columna a la izquierda; «Continuar» retoma su última partida.",
+            "La pantalla Cargar nombra cada partida por su capitán.",
+            "Este panel le traerá noticias del puerto: notas de versión, pruebas, encuestas."
+          ]
+        },
+        "DE": {
+          "title": "Alpha 3.1: ein neuer Startbildschirm",
+          "body": "Neu in dieser Version:",
+          "items": [
+            "Das Menü steht jetzt in einer Spalte links; „Fortsetzen“ setzt Ihre letzte Partie fort.",
+            "Der Lade-Bildschirm benennt jeden Spielstand nach seinem Kapitän.",
+            "Dieses Feld bringt Ihnen Neuigkeiten aus dem Hafen: Versionshinweise, Spieltests, Umfragen."
+          ]
+        }
+      }
+    }
+  ]
+}
