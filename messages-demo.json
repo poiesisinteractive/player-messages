@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "messages": [
+    {
+      "id": "welcome-demo-0.1",
+      "date": "2026-12-15",
+      "type": "announcement",
+      "minVersion": "demo 0.1",
+      "maxVersion": "demo 0",
+      "texts": {
+        "FR": {
+          "title": "Bienvenue dans la démo de Beyond the Pier",
+          "body": "Prenez la mer pour 50 tours, au choix :",
+          "items": [
+            "pour Sundercity : fondez des colonies, commercez et devenez le premier gouverneur de l'archipel ;",
+            "ou sous pavillon pirate : semez la Terreur des mers et coiffez la couronne du Roi des Pirates.",
+            "Votre avis compte : dites-nous ce qui vous a plu, et ce qui vous a fait jurer comme un vieux loup de mer."
+          ]
+        },
+        "EN": {
+          "title": "Welcome to the Beyond the Pier demo",
+          "body": "Set sail for 50 turns, your choice:",
+          "items": [
+            "for Sundercity: found colonies, trade and become the archipelago's foremost governor;",
+            "or under the black flag: spread Terror across the seas and claim the crown of the Pirate King.",
+            "Your feedback matters: tell us what you enjoyed, and what made you curse like an old sea dog."
+          ]
+        },
+        "ES": {
+          "title": "Bienvenido a la demo de Beyond the Pier",
+          "body": "Zarpe durante 50 turnos, a su elección:",
+          "items": [
+            "por Sundercity: funde colonias, comercie y conviértase en el primer gobernador del archipiélago;",
+            "o bajo bandera pirata: siembre el Terror de los mares y ciña la corona del Rey de los Piratas.",
+            "Su opinión cuenta: díganos qué le ha gustado y qué le ha hecho maldecir como un viejo lobo de mar."
+          ]
+        },
+        "DE": {
+          "title": "Willkommen in der Demo von Beyond the Pier",
+          "body": "Stechen Sie für 50 Runden in See, nach Ihrer Wahl:",
+          "items": [
+            "für Sundercity: Gründen Sie Kolonien, treiben Sie Handel und werden Sie der erste Gouverneur des Archipels;",
+            "oder unter Piratenflagge: Verbreiten Sie den Schrecken der Meere und erringen Sie die Krone des Piratenkönigs.",
+            "Ihre Meinung zählt: Sagen Sie uns, was Ihnen gefallen hat – und was Sie wie einen alten Seebären fluchen ließ."
+          ]
+        }
+      }
+    }
+  ]
+}
